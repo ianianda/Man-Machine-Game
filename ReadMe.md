@@ -16,7 +16,9 @@ Enemy
 - lookAt
 
 acknowledgement
+- Individual work.
 - open source prefab.
+
 
 Knowledge Improved : )
 - Quaternion
